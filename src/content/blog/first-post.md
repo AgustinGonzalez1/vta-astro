@@ -1,7 +1,7 @@
 ---
 title: "My first Post"
 pubDate: "Jul 08 2020"
-heroImg: "https://generated.vusercontent.net/placeholder.svg"
+heroImg: "/assets/ia.jpg"
 tags: ["AI", "Dev"]
 ---
 
